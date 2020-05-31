@@ -150,7 +150,7 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
-  background-color: #F0E7E2;
+  background-color: #3B6CA6;
   font-size: 2.4em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.5;
   font-weight: 400;
@@ -168,7 +168,7 @@ h1 {
 	line-height: 1.0;
     font-weight: normal;
     font-family: CircularBold, Helvetica, sans-serif;
-    color: #3B6CA6;
+    color: #F0E7E2;
 }
 
 h2 {
@@ -176,7 +176,7 @@ h2 {
 	line-height: 1.0;
     font-weight: normal;
     font-family: CircularBook, Helvetica, sans-serif;
-    color: #3B6CA6;
+    color: #F0E7E2;
     margin-top: -2%}
 }
 
@@ -184,7 +184,7 @@ h3, h4 {
 	font-size: 2.4rem;
     font-weight: normal;
     font-family: CircularBook, Helvetica, sans-serif;
-    color: #3B6CA6;
+    color: #F0E7E2;
     line-height: 1.0;
     text-align: left;
     padding-right: 0px;
@@ -192,7 +192,7 @@ h3, h4 {
 
 h6 {
 	font-size: 1.2em;
-    color: #3B6CA6;
+    color: #F0E7E2;
 }
 
 p {
